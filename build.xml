@@ -1,1 +1,6 @@
-Sample it is 
+<note>
+<to>Green</to>
+<from>Red</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+</note>
